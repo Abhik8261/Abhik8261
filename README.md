@@ -1,7 +1,7 @@
 
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">A passionate MERN developer from India.</h3>
-<img algin="right" alt="Coding" width="400" src="https://cdn.dribbble.com/users/1162077/screenshots/3848914/programmer.gif"
+
 
 <p align="right"> <img src="https://lottiefiles.com/71619-coding" alt="abhik8261" /> </p>
 
