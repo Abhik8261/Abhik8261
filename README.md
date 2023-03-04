@@ -3,7 +3,7 @@
 <h3 align="center">A passionate MERN developer from India.</h3>
 
 
-<p align="right"> <img src="https://lottiefiles.com/71619-coding" alt="abhik8261" /> </p>
+
 
 - 🌱 I’m currently learning **Reactjs, Nodejs**
 
