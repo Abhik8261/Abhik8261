@@ -26,12 +26,14 @@
 
 
 
-    ![](https://github-readme-stats.vercel.app/api?username=Abhik8261&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
-    ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhik8261&theme=highcontrast&hide_border=true)<br/>
+# 📊 GitHub Stats:
+
+  ![](https://github-readme-stats.vercel.app/api?username=Abhik8261&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true)
+  ![](https://github-readme-streak-stats.herokuapp.com/?user=Abhik8261&theme=highcontrast&hide_border=true)<br/>
 
 <p style="align-items: center;">
 
-    ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhik8261&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
+   ![](https://github-readme-stats.vercel.app/api/top-langs/?username=Abhik8261&theme=highcontrast&hide_border=true&include_all_commits=true&count_private=true&layout=compact)
 </p>
 
 ### ✍️ Random Dev Quote
