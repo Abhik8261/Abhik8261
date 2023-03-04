@@ -1,15 +1,15 @@
 
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
 <h3 align="center">A passionate MERN developer from India.</h3>
+<img algin="right" alt="Coding" width="400" src="https://lottiefiles.com/71619-coding"
 
-
-
+<p align="left"> <img src="https://komarev.com/ghpvc/?username=abhik8261&label=Profile%20views&color=0e75b6&style=flat" alt="abhik8261" /> </p>
 
 - 🌱 I’m currently learning **Reactjs, Nodejs**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhik8261](https://github.com/Abhik8261)
 
-- 💬 Ask me about **React,Node and C++.**
+- 💬 Ask me about **MERN**
 
 - 📫 How to reach me **Abhik.tech.8261@gmail.com**
 
@@ -29,3 +29,4 @@
 <p>&nbsp;<img align="center" src="https://github-readme-stats.vercel.app/api?username=abhik8261&show_icons=true&locale=en" alt="abhik8261" /></p>
 
 <p><img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=abhik8261&" alt="abhik8261" /></p>
+
