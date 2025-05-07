@@ -9,7 +9,7 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhik8261](https://github.com/Abhik8261)
 
-- 💬 Ask me about **MERN, AI**
+- 🌐 Check out my portfolio at [https://abhinavportfoilio.netlify.app)
 
 - 📫 How to reach me **Abhik.tech.8261@gmail.com**
 
