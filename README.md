@@ -9,11 +9,11 @@
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhik8261](https://github.com/Abhik8261)
 
-- 🌐 Check out my portfolio at [https://abhinavportfoilio.netlify.app)
+- 🌐 Check out my portfolio at https://abhinavportfoilio.netlify.app
 
 - 📫 How to reach me **Abhik.tech.8261@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1z5sN_q3tEtTazhwOveJdaNGViV4ERhcC/view?usp=sharing)
+- 📄 Know about my experiences https://drive.google.com/file/d/1z5sN_q3tEtTazhwOveJdaNGViV4ERhcC/view?usp=sharing
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
