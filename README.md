@@ -1,6 +1,6 @@
 
 <h1 align="center">Hi 👋, I'm Abhinav Kumar</h1>
-<h3 align="center">A passionate MERN developer from India.</h3>
+<h3 align="center">Aspiring AI and computer vision enthusiast with a strong background in full-stack web development using the MERN stack. Currently focused on deep learning applications, including facial recognition. Passionate about creating innovative solutions to real-world problems and continuously learning through open-source contributions and personal projects</h3>
 
 
 
@@ -13,7 +13,7 @@
 
 - 📫 How to reach me **Abhik.tech.8261@gmail.com**
 
-- 📄 Know about my experiences [https://drive.google.com/file/d/1gShQsRfbyQaEBuHC2O_w6GKtIy39dtAW/view?usp=share_link](https://drive.google.com/file/d/1gShQsRfbyQaEBuHC2O_w6GKtIy39dtAW/view?usp=share_link)
+- 📄 Know about my experiences [https://drive.google.com/file/d/1z5sN_q3tEtTazhwOveJdaNGViV4ERhcC/view?usp=sharing)
 
 <h3 align="left">Connect with me:</h3>
 <p align="left">
