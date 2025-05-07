@@ -5,11 +5,11 @@
 
 
 
-- 🌱 I’m currently learning **Reactjs, Nodejs**
+- 🌱 I’m currently learning **Reactjs, Nodejs, AI**
 
 - 👨‍💻 All of my projects are available at [https://github.com/Abhik8261](https://github.com/Abhik8261)
 
-- 💬 Ask me about **MERN**
+- 💬 Ask me about **MERN, AI**
 
 - 📫 How to reach me **Abhik.tech.8261@gmail.com**
 
